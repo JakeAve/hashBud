@@ -1,0 +1,2 @@
+# hashBud
+node hashing module
